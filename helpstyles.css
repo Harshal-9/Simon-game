@@ -1,0 +1,17 @@
+body 
+{
+    margin: 50px;
+    background-color: #011F3F;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1
+{
+    text-align: center;
+}
+
+ul
+{
+    margin: 40px;
+}
